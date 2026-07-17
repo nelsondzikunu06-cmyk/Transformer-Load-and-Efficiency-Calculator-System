@@ -1,0 +1,19 @@
+==================================================
+            TRANSFORMER LOAD REPORT
+==================================================
+Transformer Name        : Lab Transformer 1
+Transformer Rating      : 10.00 kVA
+Primary Voltage         : 11000.00 V
+Secondary Voltage       : 415.00 V
+Power Factor            : 0.85
+--------------------------------------------------
+Connected Loads:
+  1. Lighting Circuit - Rating: 60.00 W, Quantity: 20, Load Power: 1200.00 W
+  2. Socket Outlet Load - Rating: 500.00 W, Quantity: 4, Load Power: 2000.00 W
+  3. Motor Load - Rating: 1500.00 W, Quantity: 2, Load Power: 3000.00 W
+--------------------------------------------------
+Total Connected Load    : 6200.00 W
+Estimated Apparent Load : 7.29 kVA
+Loading Percentage      : 72.94 %
+Load Status             : Normal Operating Range
+==================================================
