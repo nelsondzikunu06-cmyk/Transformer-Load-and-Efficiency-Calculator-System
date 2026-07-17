@@ -77,7 +77,7 @@ BEGIN
             secondaryVoltage, powerFactor
     DISPLAY totalLoadWatts, apparentLoadKVA, loadingPercentage, loadStatus
 
-    // ---- File saving process ----
+    // ---- File saving process -----
     OPEN FILE "transformer_report.txt" FOR WRITING
     WRITE transformer details, load list, total load, apparent load,
           loading percentage, and load status TO FILE
