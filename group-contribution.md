@@ -9,16 +9,16 @@ role/contribution to the project.
 
 | Student Name | Index Number | Role / Contribution |
 |---|---|---|
-| | | Project lead |
-| | | Algorithm writer |
-| | | Pseudocode writer |
-| | | Flowchart designer |
-| | | C++ programmer |
-| | | C++ programmer |
-| | | Testing lead |
-| | | GitHub manager |
-| | | Documentation lead |
-| | | Presentation lead |
+|1.Osabutey Sampson |01240209B | Project lead |
+|2. | | Algorithm writer |
+|3.Oteng Desmond |01243197B | Pseudocode writer |
+|4.Gbeki Edem Kwame Gator |01240881B | Flowchart designer |
+|5. | | C++ programmer |
+|6. | | C++ programmer |
+|7.Owusu Philip Aboagye |01246180B | Testing lead |
+|8.Dzikunu Nelson |01242089B | GitHub manager |
+|9. | | Documentation lead |
+|10.Georgina Adiamah |01244722B | Presentation lead |
 
 ## Notes
 
