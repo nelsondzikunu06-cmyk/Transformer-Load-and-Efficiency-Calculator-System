@@ -130,11 +130,17 @@ Report saved to transformer_report.txt
 
 *(To be completed by the group.)*
 
-| Name | Index Number | Role |
-|---|---|---|
-| | | |
-
+|     Name              | Index Number |            Role |
+1. Osabutey Sampson        01240209B      C++ Programmer 
+2. Georgina Adiamah        01244722B      Presentation
+3. Mitchel Asante          012460289B     Readme
+4.  Dzikunu Nelson         01242089B      Github Manager
+5. Gbeki Edem Kwame Gator  01240881B      Flowchart
+6. Owusu Philip Aboagye    01246180B      Testing
+7. Oteng Desmond Twumasi   01243197B      Pseudocode
+8. 
 ## License
+
 
 This project was developed for academic purposes as part of the BEE 208
 course at Accra Technical University.
