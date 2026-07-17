@@ -10,7 +10,7 @@ role/contribution to the project.
 | Student Name | Index Number | Role / Contribution |
 |---|---|---|
 |1.Osabutey Sampson |01240209B | Project lead |
-|2. | | Algorithm writer |
+|2.Benjamin Nii Baah Amoo |01243483B | Algorithm writer |
 |3.Oteng Desmond |01243197B | Pseudocode writer |
 |4.Gbeki Edem Kwame Gator |01240881B | Flowchart designer |
 |5.Osabutey Sampson |01240209B | C++ programmer |
