@@ -17,7 +17,7 @@ role/contribution to the project.
 |6. | | C++ programmer |
 |7.Owusu Philip Aboagye |01246180B | Testing lead |
 |8.Dzikunu Nelson |01242089B | GitHub manager |
-|9. | | Documentation lead |
+|9.Mitchel Asante |012460289B | Documentation lead |
 |10.Georgina Adiamah |01244722B | Presentation lead |
 
 ## Notes
