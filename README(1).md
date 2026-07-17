@@ -129,16 +129,18 @@ Report saved to transformer_report.txt
 ## Group Members
 
 *(To be completed by the group.)*
-
-|     Name              | Index Number |            Role |
-1. Osabutey Sampson        01240209B      C++ Programmer 
-2. Georgina Adiamah        01244722B      Presentation
-3. Mitchel Asante          012460289B     Readme
-4.  Dzikunu Nelson         01242089B      Github Manager
-5. Gbeki Edem Kwame Gator  01240881B      Flowchart
-6. Owusu Philip Aboagye    01246180B      Testing
-7. Oteng Desmond Twumasi   01243197B      Pseudocode
-8. 
+| Student Name | Index Number | Role / Contribution |
+|---|---|---|
+|1.Osabutey Sampson |01240209B | Project lead |
+|2.Benjamin Nii Baah Amoo |01243483B | Algorithm writer |
+|3.Oteng Desmond |01243197B | Pseudocode writer |
+|4.Gbeki Edem Kwame Gator |01240881B | Flowchart designer |
+|5.Osabutey Sampson |01240209B | C++ programmer |
+|6.Dzorgadzor Raphael |01243502B | C++ programmer |
+|7.Owusu Philip Aboagye |01246180B | Testing lead |
+|8.Dzikunu Nelson |01242089B | GitHub manager |
+|9.Mitchel Asante |012460289B | Documentation lead |
+|10.Georgina Adiamah |01244722B | Presentation lead |
 ## License
 
 
