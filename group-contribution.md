@@ -14,7 +14,7 @@ role/contribution to the project.
 |3.Oteng Desmond |01243197B | Pseudocode writer |
 |4.Gbeki Edem Kwame Gator |01240881B | Flowchart designer |
 |5.Osabutey Sampson |01240209B | C++ programmer |
-|6. | | C++ programmer |
+|6.Dzorgadzor Raphael |01243502B | C++ programmer |
 |7.Owusu Philip Aboagye |01246180B | Testing lead |
 |8.Dzikunu Nelson |01242089B | GitHub manager |
 |9.Mitchel Asante |012460289B | Documentation lead |
