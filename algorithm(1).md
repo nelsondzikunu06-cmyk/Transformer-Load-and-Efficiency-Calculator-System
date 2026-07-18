@@ -42,6 +42,7 @@ in `main.cpp`.
 12. Display a confirmation message that the report has been saved.
 13. **Stop.**
 
+
 ## Notes on Design Decisions
 
 - Validation is placed **inside a loop** (step 3) rather than a single check so
