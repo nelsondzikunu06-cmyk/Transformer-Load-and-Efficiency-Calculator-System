@@ -279,12 +279,12 @@ public:
                      << ", Quantity: " << loads[i].getQuantity()
                      << ", Load Power: " << loads[i].getLoadPowerWatts() << " W\n";
         }
-        outFile << "--------------------------------------------------\n";
+        outFile << "---------------------------------------------------\n";
         outFile << "Total Connected Load    : " << totalLoadWatts << " W" << endl;
         outFile << "Estimated Apparent Load : " << apparentLoadKVA << " kVA" << endl;
         outFile << "Loading Percentage      : " << loadingPercentage << " %" << endl;
         outFile << "Load Status             : " << status << endl;
-        outFile << "==================================================\n";
+        outFile << "===================================================\n";
 
         outFile.close();
         cout << "\nReport saved to transformer_report.txt" << endl;
