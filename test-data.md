@@ -8,7 +8,7 @@ correctly rejects invalid input.
 
 | Input | Value |
 |---|---|
-| Transformer Name | Lab Transformer 1 |
+| Transformer Name | Lab Transformer 1|
 | Transformer Rating | 10 kVA |
 | Primary Voltage | 11000 V |
 | Secondary Voltage | 415 V |
